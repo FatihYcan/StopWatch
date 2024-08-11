@@ -34,6 +34,6 @@ Bu proje, basit bir kronometre uygulamasıdır. HTML, CSS ve JavaScript kullanı
 - Font Awesome
 - JavaScript
 
-https://github.com/user-attachments/assets/a815e4a1-864d-4b97-96c4-1dc70e1adc1f
+![pi](https://github.com/user-attachments/assets/c97798a2-bd01-45d3-8e53-058b0f959a2c)
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/StopWatch/)
